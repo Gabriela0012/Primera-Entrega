@@ -158,7 +158,7 @@ class cartContainer {
     cart.products = newCartProduts
     await this.updateCarts(cart)
     
-}
+  }
   
 
 }
